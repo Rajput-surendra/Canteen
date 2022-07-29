@@ -1,0 +1,113 @@
+{
+  "project_info": {
+    "project_number": "686348429095",
+    "project_id": "food-on-the-way-c85f7",
+    "storage_bucket": "food-on-the-way-c85f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686348429095:android:13257a5ee7e08dbde92b02",
+        "android_client_info": {
+          "package_name": "com.canteen.delivery_boy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686348429095-vdtnbrceckjan0jcah0hbutkvu17hjfl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.canteen.delivery_boy",
+            "certificate_hash": "9692bc0120d1d8897f0f6d6470b36b90f311c73a"
+          }
+        },
+        {
+          "client_id": "686348429095-d20d34cnj4fq6iutlqvh8892q7adld9k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC9NdboLvAC0qAwwXjsKqhFOU0XNRG-Ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686348429095-d20d34cnj4fq6iutlqvh8892q7adld9k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686348429095:android:b1036cd572d7ee9ce92b02",
+        "android_client_info": {
+          "package_name": "com.food_on_the_way.seller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686348429095-d20d34cnj4fq6iutlqvh8892q7adld9k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC9NdboLvAC0qAwwXjsKqhFOU0XNRG-Ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686348429095-d20d34cnj4fq6iutlqvh8892q7adld9k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686348429095:android:c0b86f22a7941fdee92b02",
+        "android_client_info": {
+          "package_name": "com.food_on_the_way_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686348429095-ihu2hthkfgkitd5dsfdoiaklhmj9lec6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.food_on_the_way_user",
+            "certificate_hash": "9692bc0120d1d8897f0f6d6470b36b90f311c73a"
+          }
+        },
+        {
+          "client_id": "686348429095-d20d34cnj4fq6iutlqvh8892q7adld9k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC9NdboLvAC0qAwwXjsKqhFOU0XNRG-Ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686348429095-d20d34cnj4fq6iutlqvh8892q7adld9k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
